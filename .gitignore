@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+model_files/model.onnx
+.gitignore
+zerodhaAuth.py
+telegramAuth.py
+.gitignore
+__autotrain-ratnakar_1000_sample_curated-1474454086__/autotrain-ratnakar_1000_sample_curated-1474454086.onnx
+kitefile.p

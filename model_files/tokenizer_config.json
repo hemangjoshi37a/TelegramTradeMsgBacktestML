@@ -1,0 +1,1 @@
+{"do_lower_case": false, "unk_token": "[UNK]", "sep_token": "[SEP]", "pad_token": "[PAD]", "cls_token": "[CLS]", "mask_token": "[MASK]", "tokenize_chinese_chars": true, "strip_accents": null, "model_max_length": 512, "name_or_path": "hemangjoshi37a/autotrain-ratnakar_1000_sample_curated-1474454086", "special_tokens_map_file": null, "tokenizer_class": "BertTokenizer"}
