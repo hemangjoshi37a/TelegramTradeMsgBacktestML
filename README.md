@@ -101,7 +101,6 @@ Buy us a coffee for $5 ?
 - [IoT_SSD1306_ESP8266_NodeMCU : Read from High Precision 12bit ADC seonsor ADS1015 and display to SSD1306 SPI as progress bar in ESP8266 or NodeMCU or Arduino](https://github.com/hemangjoshi37a/my_Arduino/tree/master/IoT_SSD1306_ESP8266_NodeMCU)  
 
 ## Checkout Our Awesome 3D GrabCAD Models
-
 - [AutoCut : Automatic Wire Cutter Machine](https://grabcad.com/library/automatic-wire-cutter-machine-1)
 - [ESP Matrix Display 5mm Acrylic Box](https://grabcad.com/library/esp-matrix-display-5mm-acrylic-box-1)
 - [Arcylic Bending Machine w/ Hot Air Gun](https://grabcad.com/library/arcylic-bending-machine-w-hot-air-gun-1)
@@ -112,3 +111,7 @@ Buy us a coffee for $5 ?
 
 ## Our HuggingFace Datasets :
 - [hemangjoshi37a/autotrain-data-ratnakar_1000_sample_curated : Stock tip message NER(Named Entity Recognition or Token Classification) using HUggingFace-AutoTrain and LabelStudio and Ratnakar Securities Pvt. Ltd.](https://huggingface.co/datasets/hemangjoshi37a/autotrain-data-ratnakar_1000_sample_curated)
+
+## We sell Gigs on Fiverr : 
+- [code android and ios app for you using flutter firebase software stack](https://business.fiverr.com/share/3v14pr)
+- [code custom algotrading software for zerodha or angel broking](https://business.fiverr.com/share/kzkvEy)
