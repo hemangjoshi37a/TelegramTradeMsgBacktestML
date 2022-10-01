@@ -37,6 +37,10 @@
 10. Serve the app as flask web API for web request and respond to it as labelled tokens.
  ![Screenshot from 2022-10-01 00-12-12](https://user-images.githubusercontent.com/12392345/193394323-822c2a59-ca72-45b1-abca-a6e5df3364b0.png)
 
+11. Outperforming or underperforming results of the telegram channel tips against exchange index by percentage.
+ ![Screenshot from 2022-10-01 11-16-27](https://user-images.githubusercontent.com/12392345/193394685-53235198-04f8-4d3c-a341-535dd9093252.png)
+
+
 
 Place a custom order on hjLabs.in : [https://hjLabs.in](https://hjlabs.in/?product=custom-algotrading-software-for-zerodha-and-angel-w-source-code)
 
