@@ -2,6 +2,10 @@
 
 #### Backtest telegram mesaage from whole channel about trading(as in stocks or crypto) using Mahcine Learnig (Named Entity Recognition or Token Classification).
 
+## Test now on HuggingFace : ![Screenshot from 2022-10-01 11-50-07](https://user-images.githubusercontent.com/12392345/193395791-2a586c59-1ee2-433d-9f27-cc8e90b8e679.png)
+[~: Link to test this model :~](https://huggingface.co/hemangjoshi37a/autotrain-ratnakar_1000_sample_curated-1474454086?text=SUPER+DUPER+DELIVERY%0A%0ADELIVERY+%3A+BUY+BEPL+ABOVE+117+SL+103+TARGET+135+-+155+-+175)
+
+
 ## What this repository contains? :
 
 1. Label data using LabelStudio NER(Named Entity Recognition or Token Classification) tool.
