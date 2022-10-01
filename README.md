@@ -5,38 +5,38 @@
 ## What this repository contains? :
 
 1. Label data using LabelStudio NER(Named Entity Recognition or Token Classification) tool.
- ![img1](file:///home/hemang/Pictures/Screenshots/Screenshot%20from%202022-09-30%2012-28-50.png) convert to  file:///home/hemang/Pictures/Screenshots/Screenshot%20from%202022-09-30%2018-59-14.png
+ ![Screenshot from 2022-09-30 12-28-50](https://user-images.githubusercontent.com/12392345/193394190-3ad215d1-3205-4af3-949e-6d95cf866c6c.png) convert to  ![Screenshot from 2022-09-30 18-59-14](https://user-images.githubusercontent.com/12392345/193394213-9bb936e7-34ea-4cbc-9132-80c7e5a006d7.png)
 
 2. Convert LabelStudio CSV or JSON to HuggingFace-autoTrain dataset conversion script
- file:///home/hemang/Pictures/Screenshots/Screenshot%20from%202022-10-01%2010-36-03.png
+![Screenshot from 2022-10-01 10-36-03](https://user-images.githubusercontent.com/12392345/193394227-32e293d4-6736-4e71-b687-b0c2fcad732c.png)
 
 3. Train NER model on Hugginface-autoTrain.
- file:///home/hemang/Pictures/Screenshots/Screenshot%20from%202022-10-01%2010-38-24.png
+ ![Screenshot from 2022-10-01 10-38-24](https://user-images.githubusercontent.com/12392345/193394247-bf51da86-45bb-41b4-b4da-3de86014e6a5.png)
 
 4. Use Hugginface-autoTrain model to predict labels on new data in LabelStudio using LabelStudio-ML-Backend.
- file:///home/hemang/Pictures/Screenshots/Screenshot%20from%202022-10-01%2010-41-07.png
- file:///home/hemang/Pictures/Screenshots/Screenshot%20from%202022-10-01%2010-42-36.png
- file:///home/hemang/Pictures/Screenshots/Screenshot%20from%202022-10-01%2010-44-56.png
+ ![Screenshot from 2022-10-01 10-41-07](https://user-images.githubusercontent.com/12392345/193394251-bfba07d4-c56b-4fe8-ba7f-08a1c69f0e2c.png)
+ ![Screenshot from 2022-10-01 10-42-36](https://user-images.githubusercontent.com/12392345/193394261-df4bc8f8-9ffd-4819-ba26-04fddbba8e7b.png)
+ ![Screenshot from 2022-10-01 10-44-56](https://user-images.githubusercontent.com/12392345/193394267-c5a111c3-8d00-4d6f-b3c6-0ea82e4ac474.png)
 
 5. Define python function to predict labels using Hugginface-autoTrain model.
- file:///home/hemang/Pictures/Screenshots/Screenshot%20from%202022-10-01%2010-47-08.png
--167:11:70:16
- file:///home/hemang/Pictures/Screenshots/Screenshot%20from%202022-10-01%2010-47-25.png
--43:-10:70:37
+ ![Screenshot from 2022-10-01 10-47-08](https://user-images.githubusercontent.com/12392345/193394278-81389606-f690-454a-bb2b-ef3f1db39571.png)
+![Screenshot from 2022-10-01 10-47-25](https://user-images.githubusercontent.com/12392345/193394288-27a0c250-41af-48b1-9c57-c146dc51da1d.png)
 
 6. Only label new data from newly predicted-labels-dataset that has falsified labels.
- file:///home/hemang/Pictures/Screenshots/Screenshot%20from%202022-09-30%2022-47-23.png
+ ![Screenshot from 2022-09-30 22-47-23](https://user-images.githubusercontent.com/12392345/193394294-fdfaf40a-c9cd-4c2d-836e-1878b503a668.png)
 
 7. Backtest Truely labelled dataset against real historical data of the stock using zerodha kiteconnect and jugaad_trader.
- file:///home/hemang/Pictures/Screenshots/Screenshot%20from%202022-10-01%2000-05-55.png
+ ![Screenshot from 2022-10-01 00-05-55](https://user-images.githubusercontent.com/12392345/193394303-137c2a2a-3341-4be3-8ece-5191669ec53a.png)
+
 8. Evaluate total gained percentage since inception summation-wise and compounded and plot.
- file:///home/hemang/Pictures/Screenshots/Screenshot%20from%202022-10-01%2000-06-59.png
+ ![Screenshot from 2022-10-01 00-06-59](https://user-images.githubusercontent.com/12392345/193394308-446eddd9-c5d1-47e3-a231-9edc620284bb.png)
 
 9. Listen to telegram channel for new LIVE messages using telegram API for algotrading.
- file:///home/hemang/Pictures/Screenshots/Screenshot%20from%202022-10-01%2000-09-29.png
- 
+ ![Screenshot from 2022-10-01 00-09-29](https://user-images.githubusercontent.com/12392345/193394319-8cc915b7-216e-4e05-a7bf-28360b17de99.png)
+
 10. Serve the app as flask web API for web request and respond to it as labelled tokens.
- file:///home/hemang/Pictures/Screenshots/Screenshot%20from%202022-10-01%2000-12-12.png
+ ![Screenshot from 2022-10-01 00-12-12](https://user-images.githubusercontent.com/12392345/193394323-822c2a59-ca72-45b1-abca-a6e5df3364b0.png)
+
 
 Place a custom order on hjLabs.in : [https://hjLabs.in](https://hjlabs.in/?product=custom-algotrading-software-for-zerodha-and-angel-w-source-code)
 
@@ -55,7 +55,7 @@ Please contribute your suggestions and corections to support our efforts.
 
 Thank you.
 
-Buy us a coffee for $5 on PayPal ?
+Buy us a coffee for $5 ?
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5JXC8VRCSUZWJ)
 
