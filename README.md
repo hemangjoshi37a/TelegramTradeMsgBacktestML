@@ -5,7 +5,7 @@
 ## What this repository contains? :
 
 1. Label data using LabelStudio NER(Named Entity Recognition or Token Classification) tool.
- file:///home/hemang/Pictures/Screenshots/Screenshot%20from%202022-09-30%2012-28-50.png convert to  file:///home/hemang/Pictures/Screenshots/Screenshot%20from%202022-09-30%2018-59-14.png
+ ![img1](file:///home/hemang/Pictures/Screenshots/Screenshot%20from%202022-09-30%2012-28-50.png) convert to  file:///home/hemang/Pictures/Screenshots/Screenshot%20from%202022-09-30%2018-59-14.png
 
 2. Convert LabelStudio CSV or JSON to HuggingFace-autoTrain dataset conversion script
  file:///home/hemang/Pictures/Screenshots/Screenshot%20from%202022-10-01%2010-36-03.png
