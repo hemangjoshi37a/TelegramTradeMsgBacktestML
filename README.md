@@ -1,17 +1,42 @@
 # TelegramTradeMsgBacktestML
 
-Backtest telegram mesaage from whole channel about trading(as in stocks or crypto) using Mahcine Learnig (Named Entity Recognition or Token Classification)
+#### Backtest telegram mesaage from whole channel about trading(as in stocks or crypto) using Mahcine Learnig (Named Entity Recognition or Token Classification).
+
+## What this repository contains? :
 
 1. Label data using LabelStudio NER(Named Entity Recognition or Token Classification) tool.
+ file:///home/hemang/Pictures/Screenshots/Screenshot%20from%202022-09-30%2012-28-50.png convert to  file:///home/hemang/Pictures/Screenshots/Screenshot%20from%202022-09-30%2018-59-14.png
+
 2. Convert LabelStudio CSV or JSON to HuggingFace-autoTrain dataset conversion script
+ file:///home/hemang/Pictures/Screenshots/Screenshot%20from%202022-10-01%2010-36-03.png
+
 3. Train NER model on Hugginface-autoTrain.
+ file:///home/hemang/Pictures/Screenshots/Screenshot%20from%202022-10-01%2010-38-24.png
+
 4. Use Hugginface-autoTrain model to predict labels on new data in LabelStudio using LabelStudio-ML-Backend.
+ file:///home/hemang/Pictures/Screenshots/Screenshot%20from%202022-10-01%2010-41-07.png
+ file:///home/hemang/Pictures/Screenshots/Screenshot%20from%202022-10-01%2010-42-36.png
+ file:///home/hemang/Pictures/Screenshots/Screenshot%20from%202022-10-01%2010-44-56.png
+
 5. Define python function to predict labels using Hugginface-autoTrain model.
+ file:///home/hemang/Pictures/Screenshots/Screenshot%20from%202022-10-01%2010-47-08.png
+-167:11:70:16
+ file:///home/hemang/Pictures/Screenshots/Screenshot%20from%202022-10-01%2010-47-25.png
+-43:-10:70:37
+
 6. Only label new data from newly predicted-labels-dataset that has falsified labels.
+ file:///home/hemang/Pictures/Screenshots/Screenshot%20from%202022-09-30%2022-47-23.png
+
 7. Backtest Truely labelled dataset against real historical data of the stock using zerodha kiteconnect and jugaad_trader.
+ file:///home/hemang/Pictures/Screenshots/Screenshot%20from%202022-10-01%2000-05-55.png
 8. Evaluate total gained percentage since inception summation-wise and compounded and plot.
+ file:///home/hemang/Pictures/Screenshots/Screenshot%20from%202022-10-01%2000-06-59.png
+
 9. Listen to telegram channel for new LIVE messages using telegram API for algotrading.
+ file:///home/hemang/Pictures/Screenshots/Screenshot%20from%202022-10-01%2000-09-29.png
+ 
 10. Serve the app as flask web API for web request and respond to it as labelled tokens.
+ file:///home/hemang/Pictures/Screenshots/Screenshot%20from%202022-10-01%2000-12-12.png
 
 Place a custom order on hjLabs.in : [https://hjLabs.in](https://hjlabs.in/?product=custom-algotrading-software-for-zerodha-and-angel-w-source-code)
 
