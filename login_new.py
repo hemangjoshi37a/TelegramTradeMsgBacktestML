@@ -12,7 +12,7 @@ def login_haj_new():
     ####################################################
     this_totp_class = pyotp.TOTP(my_twofa_key)
     this_totp_pin = this_totp_class.now()
-    kite = Zerodha(user_id=my_user_id,password=my_password,twofa=my_PIN) ## TWOFA= PIN or  this_totp_pin ##
+    kite = Zerodha(user_id=my_user_id,password=my_password,twofa='498234') ## TWOFA= PIN or  this_totp_pin ##
     kite.login()
     #######################################################
     joblib.dump(kite,'kitefile.p')
