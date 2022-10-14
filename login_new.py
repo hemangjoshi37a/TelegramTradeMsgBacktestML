@@ -3,16 +3,17 @@ import pyotp
 import joblib
 import zerodhaAuth
 
-def login_haj_new():
+def login_haj_new(appcode):
     ######################################################
     my_user_id = zerodhaAuth.haj_my_user_id
     my_password = zerodhaAuth.haj_my_password
     my_twofa_key =zerodhaAuth.haj_my_twofa_key
-    my_PIN = zerodhaAuth.haj_my_PIN
+#     my_PIN = zerodhaAuth.haj_my_PIN
+    my_PIN = appcode
     ####################################################
     this_totp_class = pyotp.TOTP(my_twofa_key)
     this_totp_pin = this_totp_class.now()
-    kite = Zerodha(user_id=my_user_id,password=my_password,twofa='498234') ## TWOFA= PIN or  this_totp_pin ##
+    kite = Zerodha(user_id=my_user_id,password=my_password,twofa=this_totp_pin) ## TWOFA= PIN or  this_totp_pin ##
     kite.login()
     #######################################################
     joblib.dump(kite,'kitefile.p')
