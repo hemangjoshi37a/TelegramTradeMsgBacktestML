@@ -48,29 +48,21 @@
 
 Place a custom order on hjLabs.in : [https://hjLabs.in](https://hjlabs.in/?product=custom-algotrading-software-for-zerodha-and-angel-w-source-code)
 
-------------------------------------------------------------------------------
 
-### Contact us
+## Social Media :
+* <img src="https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/whatsapp.jpg" width="15px;"/> [WhatsApp/917016525813](https://wa.me/917016525813)
+* <img src="https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/telegram.me.jpg" width="15px;"/> [Telegram/hjlabs](https://t.me/hjlabs)
+* [<img src="https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/email.jpg" width="15px;"/> Gmail/hemangjoshi37a@gmail.com](mailto:hemangjoshi37a@gmail.com)
+* [<img src="https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/facebook.jpg" width="15px;"/> Facebook/hemangjoshi37](https://www.facebook.com/hemangjoshi37/)
+* [<img src="https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/twitter.jpg" width="15px;"/> Twitter/HemangJ81509525](https://twitter.com/HemangJ81509525)
+* <img src="https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/linkedin.jpg" width="15px;"/> [LinkedIn/hemang-joshi-046746aa](https://www.linkedin.com/in/hemang-joshi-046746aa/)
+* <img src="https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/tumblr.jpg" width="15px;"/> [Tumblr/hemangjoshi37a-blog](https://www.tumblr.com/blog/hemangjoshi37a-blog)
+* <img src="https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/pinterest.jpg" width="15px;"/> [Pinterest/hemangjoshi37a](https://in.pinterest.com/hemangjoshi37a/)
+* <img src="https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/blogger.jpg" width="15px;"/> [Blogger/hemangjoshi](http://hemangjoshi.blogspot.com/)
+* <img src="https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/instapaper.jpg" width="15px;"/> [Instagram/hemangjoshi37](https://www.instagram.com/hemangjoshi37/)
 
-Mobile : [+917016525813](tel:+917016525813)
-Whatsapp & Telegram : [+919409077371](tel:+919409077371)
-
-Email : [hemangjoshi37a@gmail.com](mailto:hemangjoshi37a@gmail.com)
-
-Place a custom order on hjLabs.in : [https://hjLabs.in](https://hjlabs.in/)
-
-Please contribute your suggestions and corections to support our efforts.
-
-Thank you.
-
-Buy us a coffee for $5 ?
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5JXC8VRCSUZWJ)
-
-----------------------------------------------------------------------------------------
-
-## Checkout Our Other Repositories
-
+ 
+## Checkout Cool GitHub Other Repositories:
 - [pyPortMan](https://github.com/hemangjoshi37a/pyPortMan)
 - [transformers_stock_prediction](https://github.com/hemangjoshi37a/transformers_stock_prediction)
 - [TrendMaster](https://github.com/hemangjoshi37a/TrendMaster)
@@ -80,8 +72,7 @@ Buy us a coffee for $5 ?
 - [Cool Arduino and ESP8266 or NodeMCU Projects](https://github.com/hemangjoshi37a/my_Arduino)
 - [Telegram Trade Msg Backtest ML](https://github.com/hemangjoshi37a/TelegramTradeMsgBacktestML)
 
-## Checkout Our Other Products
-
+## Checkout Our Other Products:
 - [WiFi IoT LED Matrix Display](https://hjlabs.in/product/wifi-iot-led-display)
 - [SWiBoard WiFi Switch Board IoT Device](https://hjlabs.in/product/swiboard-wifi-switch-board-iot-device)
 - [Electric Bicycle](https://hjlabs.in/product/electric-bicycle)
@@ -91,8 +82,7 @@ Buy us a coffee for $5 ?
 - [SWiBoard :Tasmota MQTT Control](https://play.google.com/store/apps/details?id=in.hjlabs.swiboard)
 - [Custom Token Classification or Named Entity Recognition (NER) model as in Natural Language Processing (NLP) Machine Learning](https://hjlabs.in/product/custom-token-classification-or-named-entity-recognition-ner-model-as-in-natural-language-processing-nlp-machine-learning/)
 
-## Some Cool Arduino and ESP8266 (or NodeMCU) IoT projects
-
+## Some Cool Arduino and ESP8266 (or NodeMCU) IoT projects:
 - [IoT_LED_over_ESP8266_NodeMCU : Turn LED on and off using web server hosted on a nodemcu or esp8266](https://github.com/hemangjoshi37a/my_Arduino/tree/master/IoT_LED_over_ESP8266_NodeMCU)
 - [ESP8266_NodeMCU_BasicOTA : Simple OTA (Over The Air) upload code from Arduino IDE using WiFi to NodeMCU or ESP8266](https://github.com/hemangjoshi37a/my_Arduino/tree/master/ESP8266_NodeMCU_BasicOTA)  
 - [IoT_CSV_SD : Read analog value of Voltage and Current and write it to SD Card in CSV format for Arduino, ESP8266, NodeMCU etc](https://github.com/hemangjoshi37a/my_Arduino/tree/master/IoT_CSV_SD)  
@@ -100,7 +90,7 @@ Buy us a coffee for $5 ?
 - [IoT_Load_Cell_using_ESP8266_NodeMC : Read ADC value from High Precision 12bit ADS1015 ADC Sensor and Display on SSD1306 SPI Display as progress bar for Arduino or ESP8266 or NodeMCU](https://github.com/hemangjoshi37a/my_Arduino/tree/master/IoT_Load_Cell_using_ESP8266_NodeMC)
 - [IoT_SSD1306_ESP8266_NodeMCU : Read from High Precision 12bit ADC seonsor ADS1015 and display to SSD1306 SPI as progress bar in ESP8266 or NodeMCU or Arduino](https://github.com/hemangjoshi37a/my_Arduino/tree/master/IoT_SSD1306_ESP8266_NodeMCU)  
 
-## Checkout Our Awesome 3D GrabCAD Models
+## Checkout Our Awesome 3D GrabCAD Models:
 - [AutoCut : Automatic Wire Cutter Machine](https://grabcad.com/library/automatic-wire-cutter-machine-1)
 - [ESP Matrix Display 5mm Acrylic Box](https://grabcad.com/library/esp-matrix-display-5mm-acrylic-box-1)
 - [Arcylic Bending Machine w/ Hot Air Gun](https://grabcad.com/library/arcylic-bending-machine-w-hot-air-gun-1)
@@ -118,8 +108,14 @@ Buy us a coffee for $5 ?
 - [🩸 મનુષ્યમાં પરિવહન તંત્ર 🩸 परिसंचरण तंत्र 🩸 Blood Circulation System in Humans🩸 By Priyanka madam](https://www.youtube.com/watch?v=vxa6o_wrWnY)
 - [AutoCut V2 - The World's Most Powerful Arduino Automatic Wire Cutting Machine](https://www.youtube.com/watch?v=oGr0mWmNhKY)
 - [SWiBoard - A Killer Gadget to Boost Your Boring Switchboard](https://www.youtube.com/watch?v=ftza6WM4LiE)
+- [🧪 મનુષ્યમાં ઉત્સર્જન-તંત્ર 🦠 मानव उत्सर्जन तंत्र ⚗️ excretory system 🩺](https://www.youtube.com/watch?v=UUGI-CFKsWI)
+- [🌳વનસ્પતિમાં પાણી અને ખનીજ તત્વોનું વહન 🌲](https://youtu.be/1da9p6iYlr4)
+- [🌲 વનસ્પતિમાં બાષ્પોત્સર્જન 🌳 पेड़ में वाष्पोत्सर्जन 🎄Transpiration in Trees](https://youtu.be/I9Sirc42Ktg)
+- [🫁 સજીવોમાં શ્વસન 🧬 जीवों में श्वास 🫀 Breathing in organisms 👩🏻‍🔬](https://youtu.be/sIMl4t2OFmY)
+- [🫁 શ્વસનની પ્રક્રિયા 🫀Respiratory System 🦠](https://youtu.be/hua8ZD5Ge1w)
+- [🫁 મનુષ્યમાં શ્વાસ અને ઉચ્છશ્વાસ ⚛️ ](https://youtu.be/BI-CYgnkGCw)
 
-## My Quirky Blog
+## My Quirky Blog :
 - [Hemang Joshi](http://hemangjoshi.blogspot.com/)
 
 ## Awesome Android Apps :
@@ -135,13 +131,3 @@ Buy us a coffee for $5 ?
 - [Cool Arduino and ESP8266 or NodeMCU Projects](https://gitlab.com/hemangjoshi37a/my_Arduino)
 - [Telegram Trade Msg Backtest ML](https://gitlab.com/hemangjoshi37a/TelegramTradeMsgBacktestML)
 
-## Social Media :
-* [<img src="https://github.com/hemangjoshi37a/social-share-urls/blob/master/images/logo-icons/facebook.jpg" width="15px;"/> Facebook/hemangjoshi37](https://www.facebook.com/hemangjoshi37/)
-* [<img src="https://github.com/hemangjoshi37a/social-share-urls/blob/master/images/logo-icons/twitter.jpg" width="15px;"/> Twitter/HemangJ81509525](https://twitter.com/HemangJ81509525)
-* <img src="https://github.com/hemangjoshi37a/social-share-urls/blob/master/images/logo-icons/linkedin.jpg" width="15px;"/> [LinkedIn/hemang-joshi-046746aa](https://www.linkedin.com/in/hemang-joshi-046746aa/)
-* <img src="https://github.com/hemangjoshi37a/social-share-urls/blob/master/images/logo-icons/whatsapp.jpg" width="15px;"/> [WhatsApp/917016525813](https://wa.me/917016525813)
-* <img src="https://github.com/hemangjoshi37a/social-share-urls/blob/master/images/logo-icons/tumblr.jpg" width="15px;"/> [Tumblr/hemangjoshi37a-blog](https://www.tumblr.com/blog/hemangjoshi37a-blog)
-* <img src="https://github.com/hemangjoshi37a/social-share-urls/blob/master/images/logo-icons/pinterest.jpg" width="15px;"/> [Pinterest/hemangjoshi37a](https://in.pinterest.com/hemangjoshi37a/)
-* <img src="https://github.com/hemangjoshi37a/social-share-urls/blob/master/images/logo-icons/blogger.jpg" width="15px;"/> [Blogger/hemangjoshi](http://hemangjoshi.blogspot.com/)
-* <img src="https://github.com/hemangjoshi37a/social-share-urls/blob/master/images/logo-icons/instapaper.jpg" width="15px;"/> [Instagram/hemangjoshi37](https://www.instagram.com/hemangjoshi37/)
-* <img src="https://github.com/hemangjoshi37a/social-share-urls/blob/master/images/logo-icons/telegram.me.jpg" width="15px;"/> [Telegram/hjlabs](https://t.me/hjlabs)
